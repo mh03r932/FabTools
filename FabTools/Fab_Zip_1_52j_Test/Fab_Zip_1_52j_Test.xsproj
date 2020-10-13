@@ -30,7 +30,7 @@
     <VO7>true</VO7>
     <VO8>true</VO8>
     <TargetFrameworkVersion>v4.6</TargetFrameworkVersion>
-    <XSharpProjectversion>2.3.0.0</XSharpProjectversion>
+    <XSharpProjectversion>2.6.1.0</XSharpProjectversion>
     <StartupObject />
     <ApplicationIcon />
     <VulcanCompatibleResources>False</VulcanCompatibleResources>
@@ -78,12 +78,6 @@
     <RegisterForComInterop>False</RegisterForComInterop>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="Ionic.Zip, Version=1.9.5.2, Culture=neutral, PublicKeyToken=edbe51ad942a3f5c">
-      <Name>Ionic.Zip</Name>
-      <AssemblyName>Ionic.Zip.dll</AssemblyName>
-      <HintPath>Debug\Ionic.Zip.dll</HintPath>
-      <Private>True</Private>
-    </Reference>
     <Reference Include="System">
       <Private>False</Private>
       <SpecificVersion>False</SpecificVersion>
